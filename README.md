@@ -1,4 +1,7 @@
-# test coverage for  [spm (v3.6.12)](http://spmjs.io)  [![npm package](https://img.shields.io/npm/v/npmtest-spm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-spm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-spm.svg)](https://travis-ci.org/npmtest/node-npmtest-spm)
+# npmtest-spm
+
+#### basic test coverage for  [spm (v3.6.12)](http://spmjs.io)  [![npm package](https://img.shields.io/npm/v/npmtest-spm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-spm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-spm.svg)](https://travis-ci.org/npmtest/node-npmtest-spm)
+
 #### Static Package Manager
 
 [![NPM](https://nodei.co/npm/spm.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/spm)
