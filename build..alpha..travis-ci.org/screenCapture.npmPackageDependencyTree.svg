@@ -618,7 +618,7 @@
 <tspan x="10" y="9850">  │ │ ├─┬ cssnano@3.10.0 </tspan>
 <tspan x="10" y="9866">  │ │ │ ├─┬ autoprefixer@6.7.7 </tspan>
 <tspan x="10" y="9882">  │ │ │ │ ├─┬ browserslist@1.7.7 </tspan>
-<tspan x="10" y="9898">  │ │ │ │ │ └── electron-to-chromium@1.3.3 </tspan>
+<tspan x="10" y="9898">  │ │ │ │ │ └── electron-to-chromium@1.3.4 </tspan>
 <tspan x="10" y="9914">  │ │ │ │ ├── normalize-range@0.1.2 </tspan>
 <tspan x="10" y="9930">  │ │ │ │ └─┬ postcss@5.2.17 </tspan>
 <tspan x="10" y="9946">  │ │ │ │   ├── source-map@0.5.6 </tspan>
@@ -723,7 +723,7 @@
 <tspan x="10" y="11530">  │ │ │ │ ├── is-absolute-url@2.1.0 </tspan>
 <tspan x="10" y="11546">  │ │ │ │ ├─┬ normalize-url@1.9.1 </tspan>
 <tspan x="10" y="11562">  │ │ │ │ │ ├── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="11578">  │ │ │ │ │ ├─┬ query-string@4.3.3 </tspan>
+<tspan x="10" y="11578">  │ │ │ │ │ ├─┬ query-string@4.3.4 </tspan>
 <tspan x="10" y="11594">  │ │ │ │ │ │ └── strict-uri-encode@1.1.0 </tspan>
 <tspan x="10" y="11610">  │ │ │ │ │ └─┬ sort-keys@1.1.2 </tspan>
 <tspan x="10" y="11626">  │ │ │ │ │   └── is-plain-obj@1.1.0 </tspan>
